@@ -1,5 +1,11 @@
 {
   "projects": {
-    "server": "git@github.com:javascript-tutorial/server.git"
-  }
+     "modules/engine": "https://github.com/javascript-tutorial/engine"
+  },
+  "ignore": [
+    "node_modules",
+    ".git",
+    ".vscode",
+    ".vagrant"
+  ]
 }
