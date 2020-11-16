@@ -42,3 +42,4 @@ package-lock.json
 
 /modules/engine
 .gitmodules
+/modules/engine/
